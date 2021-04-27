@@ -1,0 +1,13 @@
+bs4==0.0.1
+certifi==2020.12.5
+chardet==4.0.0
+colorama==0.4.4
+docutils==0.17
+idna==2.10
+Pillow==8.2.0
+Pygments==2.8.1
+pypiwin32==223
+pywin32==300
+requests==2.25.1
+soupsieve==2.2.1
+urllib3==1.25.8
