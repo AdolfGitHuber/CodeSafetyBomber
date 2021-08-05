@@ -32,4 +32,5 @@ python main.py
 
 # End
 
-Связь: t.me/DishonorDev
+Связь: https://t.me/DishonorDev
+
