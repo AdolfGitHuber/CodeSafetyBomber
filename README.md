@@ -31,3 +31,5 @@ pip install -r requierment.txt
 python main.py
 
 # End
+
+Связь: t.me/DishonorDev
