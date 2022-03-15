@@ -383,7 +383,7 @@ def main():
             clear()
             print(banner)
             print(
-                'Основа: t.me/DishonorDev\nТвинк: t.me/DishonorDevlope')
+                'Только для важных сообщений: t.me/DishonorDev\nИначе просто пошлю.')
             sleep(10)
             main()
         elif task == '3':
