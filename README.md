@@ -11,7 +11,7 @@
 4. А самое главное - спам нескольких номеров одновренно
 
 # Установка для Termux:
-
+```
 apt update
 
 apt upgrade
@@ -29,7 +29,7 @@ cd CodeSafetyBomber
 pip install -r requierment.txt
 
 python main.py
-
+```
 # End
 
 Только для важных сообщений: https://t.me/DishonorDev
